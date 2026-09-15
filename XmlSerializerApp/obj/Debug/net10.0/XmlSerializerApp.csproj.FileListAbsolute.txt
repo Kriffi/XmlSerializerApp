@@ -1,0 +1,15 @@
+C:\Users\epods\source\repos\XmlSerializerApp\XmlSerializerApp\bin\Debug\net10.0\XmlSerializerApp.exe
+C:\Users\epods\source\repos\XmlSerializerApp\XmlSerializerApp\bin\Debug\net10.0\XmlSerializerApp.deps.json
+C:\Users\epods\source\repos\XmlSerializerApp\XmlSerializerApp\bin\Debug\net10.0\XmlSerializerApp.runtimeconfig.json
+C:\Users\epods\source\repos\XmlSerializerApp\XmlSerializerApp\bin\Debug\net10.0\XmlSerializerApp.dll
+C:\Users\epods\source\repos\XmlSerializerApp\XmlSerializerApp\bin\Debug\net10.0\XmlSerializerApp.pdb
+C:\Users\epods\source\repos\XmlSerializerApp\XmlSerializerApp\obj\Debug\net10.0\XmlSerializerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\epods\source\repos\XmlSerializerApp\XmlSerializerApp\obj\Debug\net10.0\XmlSerializerApp.AssemblyInfoInputs.cache
+C:\Users\epods\source\repos\XmlSerializerApp\XmlSerializerApp\obj\Debug\net10.0\XmlSerializerApp.AssemblyInfo.cs
+C:\Users\epods\source\repos\XmlSerializerApp\XmlSerializerApp\obj\Debug\net10.0\XmlSerializerApp.csproj.CoreCompileInputs.cache
+C:\Users\epods\source\repos\XmlSerializerApp\XmlSerializerApp\obj\Debug\net10.0\XmlSerializerApp.dll
+C:\Users\epods\source\repos\XmlSerializerApp\XmlSerializerApp\obj\Debug\net10.0\refint\XmlSerializerApp.dll
+C:\Users\epods\source\repos\XmlSerializerApp\XmlSerializerApp\obj\Debug\net10.0\XmlSerializerApp.pdb
+C:\Users\epods\source\repos\XmlSerializerApp\XmlSerializerApp\obj\Debug\net10.0\XmlSerializerApp.genruntimeconfig.cache
+C:\Users\epods\source\repos\XmlSerializerApp\XmlSerializerApp\obj\Debug\net10.0\ref\XmlSerializerApp.dll
+C:\Users\epods\source\repos\XmlSerializerApp\XmlSerializerApp\obj\Debug\net10.0\XmlSeria.AEB2775B.Up2Date

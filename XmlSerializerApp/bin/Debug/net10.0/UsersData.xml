@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Users xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <Username>Егор</Username>
+    <Sex>Male</Sex>
+    <Age>21</Age>
+  </User>
+  <User>
+    <Username>Иван</Username>
+    <Sex>Male</Sex>
+    <Age>22</Age>
+  </User>
+  <User>
+    <Username>Johan</Username>
+    <Sex>Male</Sex>
+    <Age>34</Age>
+  </User>
+</Users>
